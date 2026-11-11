@@ -8,10 +8,6 @@
     <strong>Projeto desenvolvido com FPGA | Sistemas Digitais</strong>
   </p>
 
-  <img src="https://img.shields.io/badge/Projeto-Texto%20no%20Ar-e63946?style=for-the-badge" alt="Projeto Texto no Ar">
-  <img src="https://img.shields.io/badge/Hardware-FPGA-333333?style=for-the-badge" alt="FPGA">
-  <img src="https://img.shields.io/badge/Instituição-UFSCar-red?style=for-the-badge" alt="UFSCar">
-
   <br><br>
 
   ```
