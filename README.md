@@ -45,7 +45,7 @@ O projeto utiliza uma sequência de padrões binários para construir a figura e
 
 | Etapa | Funcionamento |
 |:---:|---|
-| ❤️ 01 | **Memória:** armazenamento dos padrões que formam o coração. |
+| 01 | **Memória:** armazenamento dos padrões que formam o coração. |
 | 02 | **Leitura:** acesso sequencial aos endereços da memória. |
 | 03 | **LEDs:** acionamento de acordo com os bits armazenados. |
 | 04 | **Temporização:** controle do intervalo entre os padrões. |
