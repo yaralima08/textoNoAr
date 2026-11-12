@@ -1,4 +1,4 @@
-# ❤️ TEXTO NO AR
+# TEXTO NO AR
 
 <div align="center">
 
@@ -27,7 +27,7 @@
 
 ---
 
-## ♥ Sobre o projeto
+## Sobre o projeto
 
 O **Texto no Ar** é um projeto desenvolvido na disciplina de **Sistemas Digitais**, da Universidade Federal de São Carlos (UFSCar).
 
@@ -37,7 +37,7 @@ Neste projeto, escolhemos representar um **coração**, utilizando combinações
 
 O resultado é baseado no princípio da **persistência da visão**: ao movimentar a placa enquanto os LEDs são acionados em uma sequência controlada, é possível perceber a formação de uma imagem no ar.
 
-## ❤️ Como funciona?
+## Como funciona?
 
 O projeto utiliza uma sequência de padrões binários para construir a figura escolhida.
 
@@ -61,7 +61,7 @@ A imagem escolhida foi um coração, representado por diferentes combinações d
 
 A escolha permite explorar a construção de imagens utilizando informações binárias, demonstrando como uma sequência de dados pode produzir um resultado visual.
 
-## ⚙️ Conceitos e tecnologias
+## Conceitos e tecnologias
 
 - FPGA;
 - Linguagem de descrição de hardware;
@@ -71,7 +71,7 @@ A escolha permite explorar a construção de imagens utilizando informações bi
 - Sinal de clock e temporização;
 - Persistência da visão.
 
-## 🎥 Demonstração
+##  Demonstração
 
 <div align="center">
 
@@ -83,7 +83,7 @@ A escolha permite explorar a construção de imagens utilizando informações bi
 
 </div>
 
-## 📁 Arquivos do projeto
+## Arquivos do projeto
 
 Os arquivos utilizados no desenvolvimento e implementação estão disponíveis neste repositório.
 
@@ -118,6 +118,6 @@ Os arquivos utilizados no desenvolvimento e implementação estão disponíveis 
 
   São Carlos — SP | 2026
 
-  <h3>❤️ Feito com dedicação, lógica e um pouco de luz!</h3>
+  <h3> Feito com dedicação, lógica e um pouco de luz!</h3>
 
 </div>
