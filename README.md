@@ -1,9 +1,6 @@
 # TEXTO NO AR
 
 <div align="center">
-
-  <h2>♥ Um coração formado por luzes no ar ♥</h2>
-
   <p>
     <strong>Projeto desenvolvido com FPGA | Sistemas Digitais</strong>
   </p>
@@ -55,7 +52,7 @@ O projeto utiliza uma sequência de padrões binários para construir a figura e
 
 Cada combinação de bits representa uma configuração dos LEDs. Quando os padrões são apresentados na ordem correta e a placa é movimentada, a figura pode ser percebida visualmente.
 
-## ♥ A figura: um coração em pixels
+## A figura: um coração em pixels
 
 A imagem escolhida foi um coração, representado por diferentes combinações de LEDs.
 
